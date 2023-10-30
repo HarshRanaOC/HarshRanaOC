@@ -13,6 +13,8 @@
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshRanaOC&theme=dark&show_icons=true)
 
 
+## Technical Skills
+<img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/-Python%20-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
 
 
 
