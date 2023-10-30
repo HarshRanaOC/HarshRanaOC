@@ -4,9 +4,9 @@
 
 
 
-- 👀 I’m interested in Programming 💻 , Web Development 🌐 and UI/UX Design ✏️
-- 🌱 I’m currently learning Artificial Intelligence 🤖 and Machine Learning 👾 
-- 💞️ I’m looking to collaborate with like-minded people 🧑
+- 👀 I’m interested in Programming 💻 , Web Development 🌐 and UI/UX Design.
+- 🌱 I’m currently learning Artificial Intelligence 🤖 and Machine Learning 👾. 
+- 💞️ I’m looking to collaborate with like-minded people 🧑.
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshRanaOC&theme=dark&show_icons=true)
 
