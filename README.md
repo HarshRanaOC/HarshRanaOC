@@ -46,7 +46,7 @@
 
 <h2 align="center">My Stats</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshranaoc&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshranaoc" />
-<img align="right"src="https://octodex.github.com/images/Fintechtocat.png" height=350 margin-bottom=300/>
+<img align="right"src="https://octodex.github.com/images/Fintechtocat.png" height=300 margin-bottom=300/>
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshRanaOC&theme=dark&show_icons=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshRanaOC&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&stroke=000000&fire=bd8a84&currStreakNum=ffe0b5&sideNums=8e724d&sideLabels=8e724d&dates=bd8a84&ring=8e724d&currStreakLabel=ffe0b5)
