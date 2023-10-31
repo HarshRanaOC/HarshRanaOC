@@ -26,8 +26,7 @@
 </a>
 </p>
 
-<img align="right" src="https://octodex.github.com/images/pythocat.png" height=100 />
-<img align="left" src="https://octodex.github.com/images/pythocat.png" height=100 />
+
 <h2 align="center">Languages And Tools I Use</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
