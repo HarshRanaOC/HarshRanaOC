@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Programming 💻 , Web Development 🌐 and UI/UX Design.
 
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 
 - 💞️ I’m looking to collaborate with like-minded people 🧑.
 
