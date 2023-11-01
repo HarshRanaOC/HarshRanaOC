@@ -64,10 +64,9 @@
  </div>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=200&pause=1000&color=00D0F7&center=true&vCenter=true&random=false&width=4000&height=300&lines=My+Badges)](https://git.io/typing-svg)
 
-
-
-
+[![An image of @harshranaoc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshranaoc)](https://holopin.io/@harshranaoc)
 
 
 
