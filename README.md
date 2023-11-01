@@ -45,7 +45,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=200&pause=1000&color=00D0F7&center=true&vCenter=true&random=false&width=4000&height=300&lines=My+Statistics)](https://git.io/typing-svg)
 
-<img align="right" src="https://octodex.github.com/images/topguntocat.png" width=150/>
+<img align="right" src="https://octodex.github.com/images/topguntocat.png" width=100/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshranaoc&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshranaoc" />
 
